@@ -62,11 +62,11 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 [![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
 
-**Software**:
-
-[![](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)  
 
 
+<!--**Software**:-->
+
+<!--[![](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)-->  
 
 
 ---
