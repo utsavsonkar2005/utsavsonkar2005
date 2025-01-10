@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Utsav</h1>
-<h3 align="center">A Passionate Full-stack Developer from India 👨‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<h3 align="center">DevOps & Cloud Enthusiast | Full-Stack Developer | Tech Explorer 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsavsonkar2005&label=Profile%20views&color=0e75b6&style=flat" alt="utsavsonkar2005" /> </p>
 
-- 🌱 I’m currently learning about **Backend & DevOps**
 
-- 📝 I regularly write articles on [https://dev.to/utsav_sonkar](https://dev.to/utsav_sonkar)
+<div style="display: flex; justify-content: center; align-items: center">
+  
+<img align="right" alt="Coding" width="300" height="180"
+src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+  
+  ### 👨‍💻 About Me
+  - 💻 Building expertise in **DevOps, Cloud Computing, and MERN stack**  
+  - 🚀 Passionate about **open-source contributions**, **collaborative projects** & **community building**  
+  - 📚 Currently learning **Backend**, **DevOps & Cloud**, and exploring **Web3** and **AI/ML**  
+  - 🎯 Future goals: Dive deeper into **DSA**, **quantum computing**, and **blockchain**  
+  - ⚡ Fun fact: **My debugging process involves 30% coding, 70% Googling 🤓**  
+</div>
 
-- 📫 How to reach me **sonkarutsav365@gmail.com**
-
-- ⚡ Fun fact **My debugging process involves 30% coding, 70% Googling 🤓**
-
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://dev.to/utsav_sonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="utsav_sonkar" height="30" width="40" /></a>
 <a href="https://twitter.com/codewithutsav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithutsav" height="30" width="40" /></a>
