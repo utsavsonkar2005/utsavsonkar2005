@@ -32,7 +32,12 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 
 
-## 🛠️ Skills
+
+
+
+
+
+##  💻 Tech Stack:
 **Programming Languages**: 
 
 [![](https://skillicons.dev/icons?i=c,cpp,py,js,ts)](https://skillicons.dev)  
@@ -49,17 +54,29 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 
 [![](https://skillicons.dev/icons?i=mongodb,mysql,postgresql)](https://skillicons.dev)  
 
-**Cloud & DevOps**:
+**Cloud**:
+
+[![](https://skillicons.dev/icons?i=aws,gcp,azure)](https://skillicons.dev)  
+
+**DevOps**:
+
+[![](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)  
+
+**Software**:
+
+[![](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)  
+
+
 
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsavsonkar2005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=utsavsonkar2005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=utsavsonkar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=utsavsonkar2005&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsonkar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=utsavsonkar2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ---
