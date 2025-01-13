@@ -29,14 +29,6 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 ---
 
 
-
-
-
-
-
-
-
-
 ##  💻 Tech Stack:
 **Programming Languages**: 
 
@@ -72,12 +64,24 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 ---
 
 ### 📊 GitHub Stats
+<a href="https://github.com/utsavsonkar2005/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=utsavsonkar2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=monokai" />
+</a>
 
-![](https://github-readme-stats.vercel.app/api?username=utsavsonkar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=utsavsonkar2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsonkar2005&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=utsavsonkar2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<a href="https://github.com/utsavsonkar2005/github-readme-stats">
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsonkar2005&theme=monokai" />
+</a>
+
+
+
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=utsavsonkar2005&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=monokai) -->
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsavsonkar2005&theme=monokai)](https://github.com/utsavsonkar2005/github-readme-stats) -->
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=utsavsonkar2005)](https://github.com/utsavsonkar2005/github-readme-stats) -->
 
 ---
 
@@ -108,11 +112,31 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 - ### <img src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" width="25"/>[  Get Started with NAGIOS: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-nagios-basic-to-intermediate-4jfp) 
 - ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGzDkaCoFxV6qGOaxgdL1YVFmqaMfJZ58h9_G_fEz2Zuclf8PO8qbFPu13bpE1UCRkLE&usqp=CAU" width="25"/>[  Get Started with MAVEN: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-maven-basic-to-intermediate-ag9) 
 - ### <img src="https://w7.pngwing.com/pngs/151/360/png-transparent-jenkins-continuous-integration-computer-servers-software-deployment-software-build-others-plugin-dublin-human-behavior-thumbnail.png" width="25"/>[  Get Started with JENKINS: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-jenkins-basic-to-intermediate-1npd) 
-- ### <img src="https://www.stickerpress.in/media/products/800x800/f25bba022dc842ea874bdb1cd3f1e02f.jpg" width="25"/>[  Get Started with ANSIBLE: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-ansible-basic-to-intermediate-lh8) 
+- ### <img src="https://www.stickerpress.in/media/products/800x800/f25bba022dc842ea874bdb1cd3f1e02f.jpg" width="25"/>[  Get Started with ANSIBLE: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-ansible-basic-to-intermediate-lh8)
+- ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="25"/>[  Get Started with DOCKER: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-docker-basic-to-intermediate-2lcp)
 - ### <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" width="25"/>[  Get Started with CHEF: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-chef-basic-to-intermediate-1je3) 
 - ### <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="25"/>[  Get Started with GIT: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-git-basic-to-intermediate-4d40) 
-- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xlpJdEzqsDpxnmmBVo6IEL0XQCfJtS4lWw&s" width="25"/>[  Get Started with LINUX: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-linuxbasics-to-intermediate-5eh3) 
+- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xlpJdEzqsDpxnmmBVo6IEL0XQCfJtS4lWw&s" width="25"/>[  Get Started with LINUX: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-linuxbasics-to-intermediate-5eh3)
+- ### <img src="https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D311486658W10000H7116/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/devops-sticker.jpg" width="25"/>[  DevOps Introduction](https://dev.to/utsav_sonkar/devops-introduction-jlo)
 <!-- BLOG-POST-LIST:END -->
 
 
 ---
+
+### 📌 Pinned Repositories:
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=utsavsonkar2005&repo=Spotify-Web-Clone&theme=dracula)](https://github.com/utsavsonkar2005/Spotify-Web-Clone) -->
+
+<a href="https://github.com/utsavsonkar2005/Spotify-Web-Clone">
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=utsavsonkar2005&repo=Spotify-Web-Clone&theme=dracula" />
+</a>
+
+
+<a href="https://github.com/utsavsonkar2005/Wego-Clone-A-flight-ticket-booking-webapp-">
+  <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=utsavsonkar2005&repo=Wego-Clone-A-flight-ticket-booking-webapp-&theme=dracula" />
+</a>
+
+
+<!-- <a href="https://github.com/utsavsonkar2005/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=utsavsonkar2005&repo=&theme=dracula" />
+</a> -->
+
