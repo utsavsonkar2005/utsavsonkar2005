@@ -139,18 +139,22 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
 <!-- ### <a href="https://dev.to/francescoxx"><img src="https://github.com/FrancescoXX/FrancescoXX/blob/main/dev-black.png" title="DEV" alt="DEV" width="25"/></a>   Recent Articles on DEV.to     -->
 
 <!-- BLOG-POST-LIST:START -->
- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5YE-sbvfccACN99oPx3jXOx3ueC4P7w_vsg&s" width="50"/>  DevOps Series:
-- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPke-tqhPr7axjbNTcgefWKVdXC2PYqQKGqg&s" width="25"/>[      Get Started with Get Started with TERRAFORM: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-get-started-with-terraform-basic-to-intermediate-mm7)
-- ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" width="25"/>[  Get Started with KUBERNETES(Including HELM): Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-kubernetesincluding-helm-basic-to-intermediate-1gmk)
-- ### <img src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" width="25"/>[  Get Started with NAGIOS: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-nagios-basic-to-intermediate-4jfp) 
-- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGzDkaCoFxV6qGOaxgdL1YVFmqaMfJZ58h9_G_fEz2Zuclf8PO8qbFPu13bpE1UCRkLE&usqp=CAU" width="25"/>[  Get Started with MAVEN: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-maven-basic-to-intermediate-ag9) 
-- ### <img src="https://w7.pngwing.com/pngs/151/360/png-transparent-jenkins-continuous-integration-computer-servers-software-deployment-software-build-others-plugin-dublin-human-behavior-thumbnail.png" width="25"/>[  Get Started with JENKINS: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-jenkins-basic-to-intermediate-1npd) 
-- ### <img src="https://www.stickerpress.in/media/products/800x800/f25bba022dc842ea874bdb1cd3f1e02f.jpg" width="25"/>[  Get Started with ANSIBLE: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-ansible-basic-to-intermediate-lh8)
-- ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="25"/>[  Get Started with DOCKER: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-docker-basic-to-intermediate-2lcp)
-- ### <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" width="25"/>[  Get Started with CHEF: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-chef-basic-to-intermediate-1je3) 
-- ### <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="25"/>[  Get Started with GIT: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-git-basic-to-intermediate-4d40) 
-- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xlpJdEzqsDpxnmmBVo6IEL0XQCfJtS4lWw&s" width="25"/>[  Get Started with LINUX: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-linuxbasics-to-intermediate-5eh3)
+###  DevOps Series:
+
+
+
 - ### <img src="https://image.spreadshirtmedia.net/image-server/v1/products/T1459A839PA4459PT28D311486658W10000H7116/views/1,width=800,height=800,appearanceId=839,backgroundColor=F2F2F2/devops-sticker.jpg" width="25"/>[  DevOps Introduction](https://dev.to/utsav_sonkar/devops-introduction-jlo)
+- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xlpJdEzqsDpxnmmBVo6IEL0XQCfJtS4lWw&s" width="25"/>[  Get Started with LINUX: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-linuxbasics-to-intermediate-5eh3)
+- ### <img src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="25"/>[  Get Started with GIT: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-git-basic-to-intermediate-4d40) 
+- ### <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" width="25"/>[  Get Started with CHEF: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-chef-basic-to-intermediate-1je3) 
+- ### <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" width="25"/>[  Get Started with DOCKER: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-docker-basic-to-intermediate-2lcp)
+- ### <img src="https://www.stickerpress.in/media/products/800x800/f25bba022dc842ea874bdb1cd3f1e02f.jpg" width="25"/>[  Get Started with ANSIBLE: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-ansible-basic-to-intermediate-lh8)
+- ### <img src="https://w7.pngwing.com/pngs/151/360/png-transparent-jenkins-continuous-integration-computer-servers-software-deployment-software-build-others-plugin-dublin-human-behavior-thumbnail.png" width="25"/>[  Get Started with JENKINS: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-jenkins-basic-to-intermediate-1npd) 
+- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBGzDkaCoFxV6qGOaxgdL1YVFmqaMfJZ58h9_G_fEz2Zuclf8PO8qbFPu13bpE1UCRkLE&usqp=CAU" width="25"/>[  Get Started with MAVEN: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-maven-basic-to-intermediate-ag9) 
+- ### <img src="https://e7.pngegg.com/pngimages/599/429/png-clipart-nagios-company-computer-icons-business-beacon-retiree-benefits-group-inc-speed-networking-circle-blue-company-thumbnail.png" width="25"/>[  Get Started with NAGIOS: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-nagios-basic-to-intermediate-4jfp) 
+- ### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" width="25"/>[  Get Started with KUBERNETES(Including HELM): Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-kubernetesincluding-helm-basic-to-intermediate-1gmk)
+- ### <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPke-tqhPr7axjbNTcgefWKVdXC2PYqQKGqg&s" width="25"/>[      Get Started with Get Started with TERRAFORM: Basic to Intermediate](https://dev.to/utsav_sonkar/get-started-with-get-started-with-terraform-basic-to-intermediate-mm7)
+
 <!-- BLOG-POST-LIST:END -->
 
 
