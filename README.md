@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738
   ### 👨‍💻 About Me
   - 💻 Building expertise in **DevOps, Cloud Computing, and MERN stack**  
   - 🚀 Passionate about **open-source contributions**, **collaborative projects** & **community building**  
-  - 📚 Currently learning **Backend**, **DevOps & Cloud**, and exploring **Web3** and  
+  - 📚 Currently learning **Backend**, **DevOps & Cloud**, and exploring **Web3** 
   - 🎯 Future goals: Dive deeper into **WEB3**, **blockchain**  
   - ⚡ Fun fact about me: **My debugging process involves 30% coding, 70% Googling 🤓**  
 </div>
